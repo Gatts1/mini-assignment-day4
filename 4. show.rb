@@ -1,6 +1,3 @@
-#You are given an array. Follow the selection sort algorithm 
-#and print the state of the array after “x” iterations have been performed.
-
 class Array_selection
 
 	def initialize (array)
